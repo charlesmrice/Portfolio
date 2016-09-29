@@ -1,0 +1,191 @@
+,location,title,company,avg_sal
+0,San Jose CA,Chief Data Scientist – Oil & Gas Analytics,,170000
+1,Arlington VA,Data Scientist,Jobspring Partners,75000
+2,St. Louis MO,SENIOR DATA SCIENTIST,Analytic Recruiting,90000
+3,New York NY,Data Scientist,Workbridge Associates,140000
+4,Norwalk CT,Data Scientist,,112500
+5,New York NY,Data Scientist,,150000
+6,San Francisco Bay Area CA,Data Scientist (Data Engineer),,180000
+7,New York NY,Lead Data Scientist,,160000
+8,San Francisco CA,Lead Data Scientist,Workbridge Associates,145000
+9,Chicago IL,Data Engineer (ElasticSearch/Kafka) -global eCommerce - Bang...,,87500
+10,New York NY,Data Scientist,,105000
+11,Washington DC,Senior Data Scientist,,118992
+12,Columbia MD,Senior Data Scientist,,150000
+13,Bloomingdale IL,Principal Statistical Analyst / Data Scientist ( USC or GC O...,,138000
+14,Washington DC,Data Scientist,,77834
+15,Baltimore MD,Data Scientist,Johns Hopkins University,65643
+16,Columbus OH,Data Scientist-Senior/Ph.D,Emerald Resource Group,110000
+17,Santa Clara CA,Python Data Scientist,Workbridge Associates,130000
+18,Columbus OH,Predictive Analytics - Data Scientist,Emerald Resource Group,85000
+19,San Diego CA,Community Assessment Specialist,,15000
+20,New York NY,Senior Data Scientist - Insurance,,150000
+21,Chicago IL,Lead Data Scientist,Analytic Recruiting,140000
+22,Atlanta GA,Data Scientist,,135000
+23,Raleigh NC,Executive Director,,117500
+24,New York NY,Data Scientist,VisionPRO,50000
+25,Union NJ,Senior Statistician / Senior Data Scientist,,105000
+26,California,California Client seeks Ph.D. or M.S. Property and Casualty...,,150000
+27,Philadelphia PA,"Junior Data Scientist - R, Web Scraping, Database Algorithms",Workbridge Associates,70000
+28,Houston TX,Data Scientist 5796057,,100000
+29,New York NY,Data Scientist,,199000
+30,Duluth GA,Sr. Data Scientist,CHASE Professionals,110000
+31,Scott AFB IL,Data Scientist/Analytics Manager with SQL (requires Secret C...,,140000
+32,Boston MA,Senior Data Scientist,Jobspring Partners,150000
+33,Modesto CA,"Digital Data Scientist, PM",,115000
+34,New York NY,Senior Data Scientist for Multi-Billion Dollar Hedge Fund,,150000
+35,Fort George G Meade MD,Data Scientist,National Security Agency,75091
+36,New York NY,Senior Data Scientist with Extensive Machine Learning Skills,,130000
+37,San Jose CA,Senior Data Scientist,Smith Hanley Associates,80000
+38,Dallas TX,Acquisition Marketing Data Scientist,Analytic Recruiting,90000
+39,Union NJ,Senior Data Scientist for Top Global Retail Company,,140000
+40,San Diego CA,Senior Data Scientist,,110000
+41,Dallas TX,Principal Data Scientist - Supply Chain,Analytic Recruiting,130000
+42,Dallas TX,Senior Marketing Data Scientist,,90000
+43,Redwood City CA,Lead Data Scientist -- IoT/Biotech,Jobspring Partners,190000
+44,Huntsville AL,Computer Systems Architect,,133000
+45,New York NY,Director of Data Science and Predictive Modeling,Analytic Recruiting,140000
+46,Fort Meade MD,Data Scientist,NSA,91581
+47,Oak Brook IL,Senior Data Scientist,Workbridge Associates,130000
+48,Chicago IL,Lead Data Scientist (Graph Analytics),Workbridge Associates,115000
+49,Fort George G Meade MD,Data Scientist - Experienced,National Security Agency,116850
+50,New York NY,Lead Data Scientist for Global Digital Media Company,,200000
+51,Fort Meade MD,Data Scientist - Experienced,NSA,116850
+52,Boston MA,Principal Data Scientist - Consultancy - Boston,,200000
+53,Superior CO,MySQL Database Administrator,,120000
+54,New York NY,C++/Python Algo Developer/Data Scientist,,135000
+55,Chantilly VA,Data Scientist (TS/SCI),,140000
+56,Brisbane CA,Data Scientist (Machine Learning),,145000
+57,Scottsdale AZ,Data Scientist-Supply Chain (Manhattan),,90000
+58,Seattle WA,Senior Analyst¸ Data Science,Liberty Mutual,94800
+59,Austin TX,Big Data Scientist,,107500
+60,Washington DC,Data Scientist,,140000
+61,Remote,Senior Research Analyst/Data Scientist,Pearson,80000
+62,New York NY,"Director, Data Scientist, Marketing Science",,150000
+63,Chicago IL,Principal Data Scientist,Workbridge Associates,165000
+64,Boston MA,Chief Data Scientist,Jobspring Partners,140000
+65,Tucson AZ,"Senior Data Scientist, Machine Learning",,140000
+66,Boston MA,Asst. Director¸ Data Science,Liberty Mutual,115000
+67,Deerfield IL,Senior/Lead Data Scientist,Workbridge Associates,140000
+68,San Jose CA,Data Scientist (Software Engineering),,120000
+69,Brisbane CA,Data Scientist (Natural Language Processing),,145000
+70,Boston NY,Predictive Analytics Professionals-- ROAD WARRIORS,,140000
+71,Phoenix AZ,data scientist,,90000
+72,Chicago IL,Senior Data Scientist (Deep Learning or NLP),Workbridge Associates,130000
+73,Mountain View CA,Sr. Data Scientist,,150000
+74,New York NY,"Data Scientist - Text Analytics - SQL, R, SAS",,200000
+75,New York NY,Data Scientist,Smith Hanley Associates,82500
+76,Buffalo NY,Data Scientist/Analyst,University at Buffalo,60000
+77,Phoenix AZ,Senior Data Scientist / Machine Learning,,140000
+78,New York NY,Data Scientist ($90k - $100k),,92500
+79,Cambridge MA,Data Scientist,,125000
+80,Basking Ridge NJ,Senior Data Scientist (Northern New Jersey),,160000
+81,Charlotte NC,Senior Business Intelligence Analyst/ Data Scientist,,120000
+82,New York NY,Data Scientist at Video Software Company,,150000
+83,New York NY,Data Scientist,Talon,120000
+84,New York NY,Director of Data Science/Chief Product Officer,Workbridge Associates,175000
+85,Port Washington NY,Data Scientist,The NPD Group,80000
+86,West Hollywood CA,Sr. Data Scientist,,150000
+87,Boston MA,Lead Data Scientist,Jobspring Partners,140000
+88,Redwood City CA,Senior Data Scientist - Security Experience is Huge,,170000
+89,Seattle WA,Data Scientist,,100000
+90,Port Washington NY,Data Scientist,The NPD Group,80000
+91,West Hollywood CA,Sr. Data Scientist,,150000
+92,Boston MA,Lead Data Scientist,Jobspring Partners,140000
+93,Redwood City CA,Senior Data Scientist - Security Experience is Huge,,170000
+94,Seattle WA,Data Scientist,,100000
+95,Port Washington NY,Data Scientist,The NPD Group,80000
+96,West Hollywood CA,Sr. Data Scientist,,150000
+97,Boston MA,Lead Data Scientist,Jobspring Partners,140000
+98,Redwood City CA,Senior Data Scientist - Security Experience is Huge,,170000
+99,Seattle WA,Data Scientist,,100000
+100,Port Washington NY,Data Scientist,The NPD Group,80000
+101,West Hollywood CA,Sr. Data Scientist,,150000
+102,Boston MA,Lead Data Scientist,Jobspring Partners,140000
+103,Redwood City CA,Senior Data Scientist - Security Experience is Huge,,170000
+104,Seattle WA,Data Scientist,,100000
+105,Port Washington NY,Data Scientist,The NPD Group,80000
+106,West Hollywood CA,Sr. Data Scientist,,150000
+107,Boston MA,Lead Data Scientist,Jobspring Partners,140000
+108,Redwood City CA,Senior Data Scientist - Security Experience is Huge,,170000
+109,Seattle WA,Data Scientist,,100000
+110,Port Washington NY,Data Scientist,The NPD Group,80000
+111,West Hollywood CA,Sr. Data Scientist,,150000
+112,Boston MA,Lead Data Scientist,Jobspring Partners,140000
+113,Redwood City CA,Senior Data Scientist - Security Experience is Huge,,170000
+114,Seattle WA,Data Scientist,,100000
+115,Port Washington NY,Data Scientist,The NPD Group,80000
+116,West Hollywood CA,Sr. Data Scientist,,150000
+117,Boston MA,Lead Data Scientist,Jobspring Partners,140000
+118,Redwood City CA,Senior Data Scientist - Security Experience is Huge,,170000
+119,Seattle WA,Data Scientist,,100000
+120,Port Washington NY,Data Scientist,The NPD Group,80000
+121,West Hollywood CA,Sr. Data Scientist,,150000
+122,Boston MA,Lead Data Scientist,Jobspring Partners,140000
+123,Redwood City CA,Senior Data Scientist - Security Experience is Huge,,170000
+124,Seattle WA,Data Scientist,,100000
+125,Port Washington NY,Data Scientist,The NPD Group,80000
+126,West Hollywood CA,Sr. Data Scientist,,150000
+127,Boston MA,Lead Data Scientist,Jobspring Partners,140000
+128,Redwood City CA,Senior Data Scientist - Security Experience is Huge,,170000
+129,Seattle WA,Data Scientist,,100000
+130,Port Washington NY,Data Scientist,The NPD Group,80000
+131,West Hollywood CA,Sr. Data Scientist,,150000
+132,Boston MA,Lead Data Scientist,Jobspring Partners,140000
+133,Redwood City CA,Senior Data Scientist - Security Experience is Huge,,170000
+134,Seattle WA,Data Scientist,,100000
+135,Port Washington NY,Data Scientist,The NPD Group,80000
+136,West Hollywood CA,Sr. Data Scientist,,150000
+137,Boston MA,Lead Data Scientist,Jobspring Partners,140000
+138,Redwood City CA,Senior Data Scientist - Security Experience is Huge,,170000
+139,Seattle WA,Data Scientist,,100000
+140,Port Washington NY,Data Scientist,The NPD Group,80000
+141,West Hollywood CA,Sr. Data Scientist,,150000
+142,Boston MA,Lead Data Scientist,Jobspring Partners,140000
+143,Redwood City CA,Senior Data Scientist - Security Experience is Huge,,170000
+144,Seattle WA,Data Scientist,,100000
+145,Port Washington NY,Data Scientist,The NPD Group,80000
+146,West Hollywood CA,Sr. Data Scientist,,150000
+147,Boston MA,Lead Data Scientist,Jobspring Partners,140000
+148,Redwood City CA,Senior Data Scientist - Security Experience is Huge,,170000
+149,Seattle WA,Data Scientist,,100000
+150,Port Washington NY,Data Scientist,The NPD Group,80000
+151,West Hollywood CA,Sr. Data Scientist,,150000
+152,Boston MA,Lead Data Scientist,Jobspring Partners,140000
+153,Redwood City CA,Senior Data Scientist - Security Experience is Huge,,170000
+154,Seattle WA,Data Scientist,,100000
+155,Port Washington NY,Data Scientist,The NPD Group,80000
+156,West Hollywood CA,Sr. Data Scientist,,150000
+157,Boston MA,Lead Data Scientist,Jobspring Partners,140000
+158,Redwood City CA,Senior Data Scientist - Security Experience is Huge,,170000
+159,Seattle WA,Data Scientist,,100000
+160,Port Washington NY,Data Scientist,The NPD Group,80000
+161,West Hollywood CA,Sr. Data Scientist,,150000
+162,Boston MA,Lead Data Scientist,Jobspring Partners,140000
+163,Redwood City CA,Senior Data Scientist - Security Experience is Huge,,170000
+164,Seattle WA,Data Scientist,,100000
+165,Port Washington NY,Data Scientist,The NPD Group,80000
+166,West Hollywood CA,Sr. Data Scientist,,150000
+167,Boston MA,Lead Data Scientist,Jobspring Partners,140000
+168,Redwood City CA,Senior Data Scientist - Security Experience is Huge,,170000
+169,Seattle WA,Data Scientist,,100000
+170,Port Washington NY,Data Scientist,The NPD Group,80000
+171,West Hollywood CA,Sr. Data Scientist,,150000
+172,Boston MA,Lead Data Scientist,Jobspring Partners,140000
+173,Redwood City CA,Senior Data Scientist - Security Experience is Huge,,170000
+174,Seattle WA,Data Scientist,,100000
+175,Port Washington NY,Data Scientist,The NPD Group,80000
+176,West Hollywood CA,Sr. Data Scientist,,150000
+177,Boston MA,Lead Data Scientist,Jobspring Partners,140000
+178,Redwood City CA,Senior Data Scientist - Security Experience is Huge,,170000
+179,Seattle WA,Data Scientist,,100000
+180,Port Washington NY,Data Scientist,The NPD Group,80000
+181,West Hollywood CA,Sr. Data Scientist,,150000
+182,Boston MA,Lead Data Scientist,Jobspring Partners,140000
+183,Redwood City CA,Senior Data Scientist - Security Experience is Huge,,170000
+184,Seattle WA,Data Scientist,,100000
+185,Port Washington NY,Data Scientist,The NPD Group,80000
+186,West Hollywood CA,Sr. Data Scientist,,150000
+187,Boston MA,Lead Data Scientist,Jobspring Partners,140000
+188,Redwood City CA,Senior Data Scientist - Security Experience is Huge,,170000
+189,Seattle WA,Data Scientist,,100000
